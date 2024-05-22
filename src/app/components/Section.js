@@ -46,7 +46,7 @@ const renderSwitch = (p) => {
                 </ul>
             )
         case 'My work | Mi trabajo':
-            return "Mis páginas en JSX (en progreso)"
+            return "Work in progress! | Mis obras en JSX (en progreso)"
         default:
             return null
     }

@@ -1,36 +1,49 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# EN
+Proficient English level- in case having a bilingual introduction isn't enough...
+## Hello!
+My name is Gonzalo, I'm from Argentina and I'm a TUDAI (programming in college, UNCPBA) student. 
 
-## Getting Started
+Update 2024/5/13: Got a job! While I started as a trainee at 2023/2/22, I'm now a Junior ETL Developer. Been quite a long time since I updated this!
 
-First, run the development server:
+## Tools
+* OOP in Java | Spring Boot
+* PHP for backend/SSR sites (made an MVC, check my repos (Web2-2022|Web2-2022-API))
+* Frontend: React+TypeScript | Angular
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Update 2024/5/13: 
+* ETL development (in Visual Studio)
+* Proficient SQL usage
+* Starter knowledge in data engineering, cloud-oriented
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Soft skills
+* Patience and determination when facing new challenges. Quite inquisitive and curious, should I make it brief.
+* Eagerness to learn how to use new tools. Always love to expand my toolset.
+* Good team collaboration. I know how to take the lead, or recognise leadership in a teammate and follow an assigned path! But I'd never be fond of slowing the team down.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Contact
+Get in touch at salomongonzalo8@gmail.com, or visit my page for more detailed info (main CV, portfolio, contact info)!
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# ES
+Hablante nativo de español- aunque no me limito a eso, sino que manejo bastante bien el inglés...
+## Hola!
+Soy Gonzalo, estudiante de TUDAI (Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas, UNCPBA).
 
-## Learn More
+Actualización 2024/5/13: Conseguí trabajo! Mientras que inicié como trainee el 2023/2/22, ahora soy un desarrollador ETL junior. Pasó bastante desde que actualicé esto!
 
-To learn more about Next.js, take a look at the following resources:
+## Herramientas
+* POO en Java | Spring Boot
+* PHP para el backend/sitios SSR (armé un back en MVC, revisá mis repos (Web2-2022|Web2-2022-API))
+* Frontend: React+TypeScript | Angular
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Actualización 2024/5/13:
+* Desarrollo de ETLs (en Visual Studio)
+* Amplio uso de SQL
+* Conocimiento inicial en ingeniería de datos, orientada a la nube
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Habilidades blandas
+* Paciencia y determinación a la hora de nuevos desafíos. Bastante inquisitivo y curioso, si debiera abreviar.
+* Expectante a la hora de aprender a usar nuevas herramientas. Amo ampliar mi conjunto de habilidades.
+* Buen trabajo en equipo. Sé liderar, o reconocer liderazgo en un colega y seguir tareas que me asigne! Pero no me gustaría entorpecer al equipo.
+  
+## Contacto
+Chiflame en salomongonzalo8@gmail.com, o visitá mi página para información más detallada (CV principal, portfolio, info de contacto)!
